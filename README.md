@@ -7,6 +7,7 @@ A series of programs written in Python to help visualize baseball TrackMan data 
 ![image](https://user-images.githubusercontent.com/96801448/150199437-82d5a4c4-e4b9-4d5c-aec8-043b0933b7d8.png)
 
 **Pitch_Graphic:** Easy way to visualize pitch command and movmement profile. Will output PNG file with side by side pitch command plot and break plot. Additional legend for distinguishing pitch type.
+
 ![image](https://user-images.githubusercontent.com/96801448/150199517-9f71d856-4589-4f2b-a850-77ea271a0a45.png)
 
 **Pitch_Hub:** DASH web app designed to put all data tools in one place. Browser interface includes command plot, movement plot, pitch result chart, spin axis chart, metric histogram, and data table. Each graph includes interactive dropdown menus to filter by pitch type or by metric. The data table includes search bars for each column and max/min filer arrows. Currently set up for 4 pitch mix (FB, CB, SL, CH) but can be adjusted and expanded.
